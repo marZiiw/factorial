@@ -12,10 +12,10 @@ public class Factorial {
 	public static void main(String[] args) {	
 		int n = 10;
 		int result = f_Factorial(n);
-		System.out.printf("El factorial de %d es %d.",n, result);
+		System.out.printf("El factorial de %d es %d.\n",n, result);
 		
 		int r = 5;
 		result = f_Factorial(r);
-		System.out.printf("El factorial de %d es %d.",r, result);
+		System.out.printf("El factorial de %d es %d.\n",r, result);
 	}
 }
