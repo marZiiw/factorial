@@ -14,7 +14,7 @@ public class Factorial {
 		int result = f_Factorial(n);
 		System.out.printf("El factorial de %d es %d.\n",n, result);
 		
-		int r = 5;
+		int r = 10;
 		result = f_Factorial(r);
 		System.out.printf("El factorial de %d es %d.\n",r, result);
 	}
